@@ -1,0 +1,15 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Escape_UE/Content/StarterContent
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+
+*.suo
+*.xcodeproj
+*.xcworkspace
